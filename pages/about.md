@@ -10,12 +10,12 @@ credits: true
 
 {% include feature/jumbotron.html objectid="https://cdil.lib.uidaho.edu/images/palouse_sm.jpg" %}
 
-A digital exhibit to hold research materials for my naming, renaming and reinvention in translation of indigenous lnaguages project
+
 
 ## About the Collection
 
 This site is generated using [CollectionBuilder-GH](https://collectionbuilding.github.io/gh/), a project to create a free and simple digital collection using [GitHub Pages](https://pages.github.com/) from: 
-
+A digital exhibit to hold research materials for my naming, renaming and reinvention in translation of indigenous lnaguages project
 - a CSV of collection metadata
 - a folder of JPG images or PDF documents
 
